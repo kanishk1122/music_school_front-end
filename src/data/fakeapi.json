@@ -1,0 +1,114 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Music Theory",
+      "description": "Comprehensive course on musical notation, scales, chords, and rhythm fundamentals.",
+      "image": "https://i.imgur.com/GxwdSEl.png",
+      "isFeatured": true,
+      "instructor": "Dr. Emily Turner",
+      "price": 199.99
+    },
+    {
+      "id": 2,
+      "title": "History of Classical Music",
+      "description": "Deep dive into classical music history, covering major composers and stylistic trends.",
+      "image": "https://i.imgur.com/976mXtT.png",
+      "isFeatured": false,
+      "instructor": "Prof. Michael Reed",
+      "price": 149.99
+    },
+    {
+      "id": 3,
+      "title": "Jazz Improvisation",
+      "description": "Explore jazz theory and practice improvisation techniques over chord changes.",
+      "image": "https://i.imgur.com/GxwdSEl.png",
+      "isFeatured": false,
+      "instructor": "Ms. Sarah Johnson",
+      "price": 179.99
+    },
+    {
+      "id": 4,
+      "title": "Rock Guitar Techniques",
+      "description": "Master essential rock guitar skills like power chords, riffs, and solos across different rock styles.",
+      "image": "https://i.imgur.com/V9ylHxr.png",
+      "isFeatured": false,
+      "instructor": "Mr. David Lee",
+      "price": 129.99
+    },
+    {
+      "id": 5,
+      "title": "Electronic Music Production",
+      "description": "Introduction to electronic music production, covering DAW basics, sound design, and mixing.",
+      "image": "https://i.imgur.com/HFEG9CF.png",
+      "isFeatured": true,
+      "instructor": "Mr. Alex Green",
+      "price": 159.99
+    },
+    {
+      "id": 6,
+      "title": "Music Composition for Film and TV",
+      "description": "Learn to compose music for visual media, covering orchestration, scoring techniques, and synchronization.",
+      "image": "https://i.imgur.com/tzWOGGw.png",
+      "isFeatured": false,
+      "instructor": "Ms. Laura Brown",
+      "price": 199.99
+    },
+    {
+      "id": 7,
+      "title": "World Music Exploration",
+      "description": "Journey through diverse global music traditions, exploring cultural and historical contexts.",
+      "image": "https://i.imgur.com/8Xs2ScL.png",
+      "isFeatured": true,
+      "instructor": "Dr. Robert Smith",
+      "price": 179.99
+    },
+    {
+      "id": 8,
+      "title": "Advanced Vocal Techniques",
+      "description": "Enhance vocal abilities with advanced singing techniques and styles.",
+      "image": "https://i.imgur.com/l4L4xZk.png",
+     "isFeatured": true,
+      "instructor": "Ms. Jennifer Taylor",
+      "price": 199.99
+      
+    },
+    
+    {
+      "id": 10,
+      "title": "Music Business and Marketing",
+      "description": "Overview of the music industry, focusing on business and marketing essentials.",
+      "image": "https://i.imgur.com/PGnu7Zd.png",
+      "isFeatured": true,
+      "instructor": "Ms. Jennifer Taylor",
+      "price": 199.99
+    },
+    {
+      "id": 11,
+      "title": "Digital Audio Engineering",
+      "description": "Focused on the technical aspects of audio engineering, covering signal flow, mixing, and mastering.",
+      "image": "https://i.imgur.com/HFEG9CF.png",
+      "isFeatured": false,
+      "instructor": "Mr. James Walker",
+      "price": 179.99
+    },
+    {
+      "id": 12,
+      "title": "Songwriting Techniques",
+      "description": "Designed for aspiring songwriters, covering song structure, lyric writing, and melody creation.",
+      "image": "https://i.imgur.com/sjmlaVt.png",
+      "isFeatured": true,
+      "instructor": "Ms. Olivia White",
+      "price": 159.99
+    },
+    {
+      "id": 13,
+      "title": "Percussion Techniques",
+      "description": "Fundamentals of playing percussion instruments, including rhythm, timing, and hand coordination.",
+      "image": "https://i.imgur.com/976mXtT.png",
+      "isFeatured": false,
+      "instructor": "Mr. Daniel King",
+      "price": 129.99
+    }
+  ]
+}

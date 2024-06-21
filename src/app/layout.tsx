@@ -1,6 +1,13 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Navbar from "@/components/Navbar";
+import Herosection from "@/components/Herosection";
+import Secoundsection from "@/components/Secoundsection";
+import Thiredsection from "@/components/Thiredsection";
+import Fourthsection from "@/components/Fourthsection";
+import Upcomingwebners from "@/components/Upcomingwebners";
+import Animatedend from '@/components/Animatedend'
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,8 +22,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="en"  className='dark w-[99.3vw] overflow-x-hidden'>
+      <body className={inter.className}>
+        <div className="w-full h-fit relative ">
+        <Navbar/>
+        </div>
+        <Herosection/>
+        <Secoundsection/>
+        <Thiredsection/>
+        <Fourthsection/>
+        <Animatedend/>
+        {children}
+      </body>
     </html>
   );
 }
