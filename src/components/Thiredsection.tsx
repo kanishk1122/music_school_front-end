@@ -51,7 +51,7 @@ const content =
 export default function Thiredsection() {
   return (
     <div className="thiredsection"  >
-        <h1 className="text-center text-3xl text-teal-700 fixed">Some inspireing Story</h1>
+        <h1 className="text-center text-3xl w-screen bg-red-600 overflow-x-hidden text-teal-700 fixed">Some inspireing Story</h1>
       <StickyScroll content={content} />
     </div>
   );

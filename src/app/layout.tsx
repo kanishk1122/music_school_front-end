@@ -26,12 +26,13 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="w-full h-fit relative ">
         <Navbar/>
-        </div>
+        
         <Herosection/>
         <Secoundsection/>
         <Thiredsection/>
         <Fourthsection/>
         <Animatedend/>
+        </div>
         {children}
       </body>
     </html>
